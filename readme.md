@@ -1,1 +1,2 @@
-Hey hi
+# git
+this is my learning git phase
